@@ -6,3 +6,5 @@ Hit the **Connect** toggle switch to setup connection to your watch. You should 
 Hit the **ADC on/off** toggle switch to start acquisition.
 
 More features to be added.
+
+[Test it here](https://kristosb.github.io/WebBangle/)
